@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace EmpWageProblem
 {
-
     public class WageComputation
     {
         const int IS_PRESENT = 1, IS_ABSENT = 0, WAGE_PER_HR = 20, FULL_DAY_HR = 8, PART_TIME_HR = 4,
@@ -23,7 +22,7 @@ namespace EmpWageProblem
         }
         public void EmpWageCalculation()
         {
-            for (int i = 0; i < WORKING_DAYS_A_MONTH; i++)
+            for (int i = 0; i < WORKING_DAYS_A_MONTH && empHrs <= 100; i++)
             {
 
                 Random random = new Random();
