@@ -1,0 +1,15 @@
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\bin\Debug\net6.0\EmpWageProblem.exe
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\bin\Debug\net6.0\EmpWageProblem.deps.json
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\bin\Debug\net6.0\EmpWageProblem.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\bin\Debug\net6.0\EmpWageProblem.dll
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\bin\Debug\net6.0\EmpWageProblem.pdb
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\EmpWageProblem.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\EmpWageProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\EmpWageProblem.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\EmpWageProblem.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\EmpWageProblem.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\EmpWageProblem.dll
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\refint\EmpWageProblem.dll
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\EmpWageProblem.pdb
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\EmpWageProblem.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\EmpWageProblem\EmpWageProblem\obj\Debug\net6.0\ref\EmpWageProblem.dll
